@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Mvi_Animals</string>
+    <string name="button_fetch_animals_text">Fetch Animals</string>
+</resources>
